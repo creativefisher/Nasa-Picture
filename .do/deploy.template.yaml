@@ -1,0 +1,9 @@
+spec:
+ name: Nasa-Picture
+ services:
+ - name: web
+   dockerfile_path: Dockerfile
+   http_port: 8080
+   git:
+     branch: master
+     repo_clone_url: https://github.com/creativefisher/Nasa-Picture.git
