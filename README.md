@@ -55,7 +55,7 @@ This will delete the app and destroy any underlying DigitalOcean resources
 **Note: If you don't delete your app, charges for the use of DigitalOcean services will continue to accrue.**
 
 
-License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2019 Wojciech Krzywiec
