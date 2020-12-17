@@ -2,7 +2,7 @@
 
 This sample demonstrates how to run a Dockerized Java application on DigitalOcean App Platform.  Since App Platform doesn't yet support Java, this sample shows how to accomplish this using Dockerfile.
 
-This sample has been adapted from https://github.com/wkrzywiec/Nasa-Picture
+This sample has been adapted from https://github.com/wkrzywiec/Nasa-Picture and simply calls an API to show the NASA picture of the day.
 
 # Getting Started #
 
